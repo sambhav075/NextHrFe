@@ -34,7 +34,7 @@ const Header = () => {
           >
             <ClockIcon className="h-6 w-6 group-hover:scale-105 transition-transform" />
             <span className="hidden md:block ml-2 text-sm font-medium">
-              Clock In
+              Clock In/Out
             </span>
           </button>
 
