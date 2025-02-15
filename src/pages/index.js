@@ -1,6 +1,6 @@
 'use client';
 import AccessGrid from "../components/Main";
-import ProtectedRoute from "@/components/ProtectedRoute";
+
 import { useAuth } from "@/context/authContext";
 import { useRouter } from 'next/navigation';
 

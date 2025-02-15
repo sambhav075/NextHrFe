@@ -12,6 +12,7 @@ const Header = () => {
     <header className="bg-[#82CAFF] border-b border-gray-200 shadow-sm sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between h-20">
         {/* Left Section: Company Logo */}
+        <Link href="/">
         <div className="flex items-center space-x-4 flex-shrink-0">
           <img
             src="/comapny.png"
@@ -22,7 +23,7 @@ const Header = () => {
             NEXTHR
           </span>
         </div>
-
+        </Link>
         {/* Center Section: Search Bar */}
         <div className="relative flex-1 max-w-2xl mx-8">
           <input

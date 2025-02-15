@@ -1,7 +1,7 @@
 import "@/styles/globals.css";
 import Header from "@/components/Header";
 import { AuthProvider } from "../context/authContext";
-
+import ProtectedRoute from "@/components/ProtectedRoute";
 export default function App({ Component, pageProps }) {
   return (
     <AuthProvider>  {/* Ensure this wraps the entire app */}
@@ -9,7 +9,7 @@ export default function App({ Component, pageProps }) {
         <Header />
         <main className="flex-1 container mx-auto px-4 py-8">
           <Component {...pageProps} />
-        </main>
+        </main> 
       </div>
     </AuthProvider>
   );

@@ -1,0 +1,16 @@
+nexthr@0.1.0 /Users/admin/Library/CloudStorage/OneDrive-LangoorDigitalPvt.Ltd/langoortask/NextHR/Untitled/FE/NextHrFe
+├── @eslint/eslintrc@3.2.0
+├── @googleapis/calendar@9.7.9
+├── @heroicons/react@2.0.13
+├── @react-oauth/google@0.12.1
+├── axios@1.7.9
+├── eslint-config-next@15.1.4
+├── eslint@9.18.0
+├── firebase@11.2.0
+├── next-auth@4.24.11
+├── next@15.1.4
+├── postcss@8.4.49
+├── react-dom@19.0.0
+├── react@19.0.0
+└── tailwindcss@3.4.17
+

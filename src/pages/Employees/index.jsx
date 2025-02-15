@@ -1,6 +1,6 @@
 import React from "react";
 import Router from "next/router";
-import AddUserForm from "@/components/AddUser"
+
 
 const Employees = () => {
   return (
@@ -74,7 +74,7 @@ const Employees = () => {
       </div>
     </div>
     <div className="mt-8">
-    <AddUserForm/>
+
     </div>
    
     </>

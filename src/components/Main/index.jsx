@@ -10,7 +10,7 @@ const AccessGrid = () => {
     { name: "Compensation", icon: "💰", href: "/compensation" },
     { name: "Time Management", icon: "⏱️", badge: "Beta", href: "/timemanagement" },
     { name: "HR Policies", icon: "📄", href: "/hrpolicies" },
-    { name: "HR Documents", icon: "📁", href: "/hrdocuments" },
+    { name: "ADD Details", icon: "📁", href: "/addDetail" },
     { name: "Recruitment", icon: "🔍", href: "/recruitment" },
     { name: "Calendar", icon: "📅", href: "/calendar" },
     { name: "Performance", icon: "📈", href: "/performance" },
